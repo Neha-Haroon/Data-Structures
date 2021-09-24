@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1618194177 source:c:\users\uzair\documents\3 semester\se\c projects\queuelinkedlist\main.c
+	<stdio.h>
+	<stdlib.h>
+
+1618194449 source:c:\users\uzair\documents\3 semester\1 data structures\c projects\queuelinkedlist\main.c
+	<stdio.h>
+	<stdlib.h>
+
